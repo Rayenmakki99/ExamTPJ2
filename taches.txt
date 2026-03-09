@@ -2,3 +2,4 @@
 2- Correction de bugs et optimisation du code pour améliorer les performances.
 3- Réalisation de tests unitaires et mise à jour de la documentation technique.
 4- Participation aux réunions techniques et aux revues de code avec l’équipe.
+
